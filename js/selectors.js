@@ -11,5 +11,5 @@ function ninjaBabySelector(){
 }
 
 function divSelector(){
-  return $('div');
+  return $('div:lt(2)');
 }
