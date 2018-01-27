@@ -4,5 +4,5 @@ return $('p');
 }
 
 function lastImageSelector(){
-  return $('img:lastchild');
+  return $('.pics:lastchild');
 }
